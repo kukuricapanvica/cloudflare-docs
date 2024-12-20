@@ -5,6 +5,12 @@ productLink: "/fundamentals/"
 productArea: Core platform
 productAreaLink: /fundamentals/reference/changelog/platform/
 entries:
+  - publish_date: "2024-12-18"
+    title: Use Account Owned Tokens to create other Account owned tokens. 
+    description: |-
+      We have made improvements to our token management where users are now able to set up a primary Account Owned Token through which they are able to manage all other Account Owned Tokens. 
+
+      Refer to the [Account owned tokens documentation](/fundamentals/api/get-started/account-owned-tokens/) for more details.
   - publish_date: "2024-12-16"
     title: Cloudflare API docs are now automatically generated
     description: |- 
